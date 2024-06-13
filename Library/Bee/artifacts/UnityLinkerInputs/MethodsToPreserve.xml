@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenuController">
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="StartGame"/>
+		</type>
+	</assembly>
+</linker>
